@@ -5,7 +5,7 @@ Page({
   },
   //options(Object)
   onLoad: function(options){
-    
+    console.log('s'.padEnd(7, 'dd2'));
   },
   onReady: function(){
     
